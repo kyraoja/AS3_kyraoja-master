@@ -1,0 +1,70 @@
+/* Stylesheet */
+body{
+	background: url(../img/binding_light.png);
+	font-family: 'Noto Sans', sans-serif;
+
+}
+
+h1{
+	font-size: 60px;
+	text-align:center;
+	padding: 45px 0px 0px 30px;
+}
+
+p{
+	font-size: 15px;
+	
+}
+
+nav{
+	background:navy;
+	
+	
+	
+}
+
+li{
+	list-style:none;
+	text-align:center;
+	display: inline;
+	margin: 40px;
+	
+}
+
+img{
+	height:auto;
+	width: 390px;
+	padding: 25px 10px 25px 0px;
+}
+	
+
+a{
+	color:#fff;
+	text-decoration:none;
+}
+
+footer{
+	font-size: 10px;
+	padding: 10px 0px 20px 0px;
+	text-align:center;
+}
+#rival{
+	clear:left;
+	}
+
+#russell{
+	height: 470px;
+	width: auto;
+	margin-top: 15px;
+	padding: 20px 0px;
+}
+
+#qb{
+	margin-left:-20px;
+	padding: 20px 0px;
+}
+
+#id{
+	height:auto;
+	width: 150;	
+}
